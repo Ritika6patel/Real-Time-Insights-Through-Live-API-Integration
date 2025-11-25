@@ -57,10 +57,10 @@ This project demonstrates how data automation, live dashboards, and global devel
 
 ## 📡 Core Features & Capabilities
 1️⃣ **Real-Time API Integration**
-    + 100% automated data refresh using Python
-    + Pulls global indicators (GDP, health, poverty, technology, trade, etc.)
-    + Covers countries, updated directly from a public API
-    + Eliminates manual downloading, cleaning, or uploading
+   + 100% automated data refresh using Python
+   + Pulls global indicators (GDP, health, poverty, technology, trade, etc.)
+   + Covers countries, updated directly from a public API
+   + Eliminates manual downloading, cleaning, or uploading
 
 2️⃣ **Economic Intelligence (GDP, Trade, Finance)**
    + Tracks high-impact economic metrics:
