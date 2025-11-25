@@ -134,6 +134,9 @@ Goal: Enable data-driven decisions that improve social, health, and economic out
     |-- README.md (this file)
 
 ## 📁 Dashboard Screenshots
+ Dashboard looks like.-![alt text](https://github.com/username/repo/assets/image.png)
+ ![Dashboard Preview](https://github.com/Ritika6patel/Real-Time-Insights-Through-Live-API-Integration/blob/master/Images/Image-1.png)
+ ![Dashboard Preview](https://github.com/Ritika6patel/Real-Time-Insights-Through-Live-API-Integration/blob/master/Images/Image-2.png)
 
 
 
