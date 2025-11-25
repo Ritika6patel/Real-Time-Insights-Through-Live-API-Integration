@@ -23,7 +23,7 @@ This solution combines Python,  APIs, and Power BI to deliver continuous monitor
        + Analyze correlations between health indicators such as life expectancy, immunization, child mortality, and healthcare spending
 
 This project demonstrates how data automation, live dashboards, and global development analytics can come together to support decision-making for policymakers, NGOs, and international development teams.
-## Multi-Layer analytical Dashboard
+## Key Analytical Deliverables
   **multi-layer analytical dashboard that answers high-impact global development questions, including:**
  + **Economic Baselines:** Average GDP per capita, trade value, forest area, and healthcare spending across countries.
 + **Regional Health Investment Patterns:** Comparing health expenditure (% of GDP) across world regions to uncover inequalities.
